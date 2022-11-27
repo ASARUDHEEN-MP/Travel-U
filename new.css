@@ -1,0 +1,51 @@
+.navbar-toggler{
+    background-image: url(b.img/532-5328945_menu-bar-icon-white-clipart-png-download-menu.png) !important;
+   
+
+}
+.nav-item a
+{
+ font-size: x-small
+}
+.magin{
+margin-left: 10%;
+margin-top: 8%;
+
+}
+.size{
+    font-size: 5vw;
+    color: aliceblue;
+}
+.lm
+{
+    color: aliceblue;
+}
+
+.navbar-toggler{
+    z-index: 2 !important;
+}
+.gg
+{
+    
+    width: 500px;
+}
+.loo
+{
+    color: rgb(106, 103, 103);
+}
+.maa
+{
+    margin-top: 15%;
+}
+.curv
+{
+    border-radius: 15px !important;
+    color: rgb(60, 102, 102);
+    border-color: aqua;
+}
+@media screen and (){
+    
+}
+
+
+ 
